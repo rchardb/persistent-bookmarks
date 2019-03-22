@@ -10,3 +10,5 @@ Bookmarks are ordered by time of creation.
 `ctrl-alt-m`: View all bookmarks in current project
 
 `ctrl-alt-shift-m`: Clear all bookmarks in current project
+
+## Note: By default Nvidia GeForce Experience has priority for 'ctrl-alt-m' used to toggle microphone. Either Nvidia or this package's keybinding needs to be remapped to work on systems using both.
